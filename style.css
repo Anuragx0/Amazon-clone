@@ -100,7 +100,10 @@
 span {
      font-size: 0.7rem;
 }
-
+.nav-signin>a{
+    text-decoration: none;
+    color: #fff;
+}
 .nav-second {
     font-size: 0.8rem;
     font-weight: 700;
